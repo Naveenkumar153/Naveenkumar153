@@ -1,5 +1,6 @@
 ![MERN-developer](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx?format=jpg&name=large)
-https://www.goodworklabs.com/wp-content/uploads/2017/08/Mean.jpg
+![Uploading image.png…]()
+
 # :dizzy: About Me:
 [![](https://visitcount.itsvg.in/api?id=Naveenkumar153&icon=3&color=8)](https://visitcount.itsvg.in)
 Experienced full stack developer passionate about creating cutting-edge solutions in an Agile environment. Expert in JavaScript, MongoDB, Express.js, React.js, and Node.js, with a keen eye for intuitive app design. Thrives on transforming intricate concepts into innovative, efficient, and seamless Web applications.
