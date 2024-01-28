@@ -1,7 +1,8 @@
 ![MERN-developer](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx?format=jpg&name=large)
+https://www.goodworklabs.com/wp-content/uploads/2017/08/Mean.jpg
 # :dizzy: About Me:
 [![](https://visitcount.itsvg.in/api?id=Naveenkumar153&icon=3&color=8)](https://visitcount.itsvg.in)
-Experienced MERN stack developer passionate about creating cutting-edge solutions in an Agile environment. Expert in JavaScript, MongoDB, Express.js, React.js, and Node.js, with a keen eye for intuitive app design. Thrives on transforming intricate concepts into innovative, efficient, and seamless Web applications.
+Experienced full stack developer passionate about creating cutting-edge solutions in an Agile environment. Expert in JavaScript, MongoDB, Express.js, React.js, and Node.js, with a keen eye for intuitive app design. Thrives on transforming intricate concepts into innovative, efficient, and seamless Web applications.
 # :computer: Tech Stack:
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=orange)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue&color=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&color=CC6699) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=blue)
